@@ -35,3 +35,8 @@
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![solana](https://img.shields.io/badge/Solana-363636?style=for-the-badge&logo=solana&logoColor=white)
+
+### Game Development
+
+![Unity](https://img.shields.io/badge/Unity-363636?style=for-the-badge&logo=Unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-363636?style=for-the-badge&logo=Unreal_Engine&logoColor=white)
